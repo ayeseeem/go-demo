@@ -1,7 +1,11 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	"ayeseeem.com/local/first-github-hello/egpack"
+)
 
 func main() {
-	fmt.Println("Hello, World")
+	fmt.Println(egpack.Reverse("Hello, World"))
 }
