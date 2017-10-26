@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"ayeseeem.com/local/first-github-hello/egpack"
+	"github.com/ayeseeem/go-demo/egpack"
 )
 
 func main() {
