@@ -1,0 +1,9 @@
+
+#Ignore thumbnails created by Windows
+Thumbs.db
+
+#Backups
+*.bak
+
+#Don't publish any built code
+*.exe
